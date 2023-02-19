@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohanra40942379" target="blank"><img src="https://img.shields.io/twitter/follow/mohanra40942379?logo=twitter&style=for-the-badge" alt="mohanra40942379" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Yojana Welfare Society**
+- 🔭 I’m currently working in **Smart Yojana Welfare Society**
 
 - 🌱 I’m currently learning **Full Stack web development**
 
