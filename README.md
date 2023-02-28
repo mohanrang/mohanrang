@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MOHAN 👋</h1>
 <h3 align="center">Detail-oriented B.Com graduate with strong analytical and strong programming skills in Java. Familiar with Agile development methodologies and experienced in working in a team environment. Seeking an entry-level Full Stack Developer position to gain hands-on experience in developing and deploying web applications.</h3>
-<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
+<img align="right" alt="Coding" width="650" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanrang&label=Profile%20views&color=0e75b6&style=flat" alt="mohanrang" /> </p>
 
@@ -14,13 +14,15 @@
 
 - 🤝 I’m looking for help with **Adding new features or functionalities to the project. Improving the user interface or user experience of the project. Solving any bugs or issues that may be present in the project. and Any other ideas or suggestions that can help to take the project to the next level.**
 
-- 👨‍💻 All of my projects are available at [My portfolio ](https://mohan-ranga-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Projects ](https://mohan-ranga-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, Java Script and React**
 
 - 📫 How to reach me **mohanrangajagarapu@gamail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10z3wsYziGqFXjuxtIZ5J-W8C4Ev6sHBn/view?usp=sharing](https://drive.google.com/file/d/10z3wsYziGqFXjuxtIZ5J-W8C4Ev6sHBn/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WTEY9FLDkgED3Aju3_yHvVs2Syv5kv9P/view?usp=share_link)
+
+-  👨‍ My Portfolio [Portfolio](https://mohan-ranga-portfolio.netlify.app/)
 
 - ⚡ Fun fact **"I sometimes feel like a 'jack of all trades' in the web development world."**
 
