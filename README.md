@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Adding new features or functionalities to the project. Improving the user interface or user experience of the project. Solving any bugs or issues that may be present in the project. and Any other ideas or suggestions that can help to take the project to the next level.**
 
-- 👨‍💻 All of my projects are available at [https://mohanrangajagarapu@gamail.com](https://mohanrangajagarapu@gamail.com)
+- 👨‍💻 All of my projects are available at [My portfolio ](https://mohan-ranga-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, Java Script and React**
 
