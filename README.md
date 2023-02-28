@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MOHAN 👋</h1>
 <h3 align="center">Detail-oriented B.Com graduate with strong analytical and strong programming skills in Java. Familiar with Agile development methodologies and experienced in working in a team environment. Seeking an entry-level Full Stack Developer position to gain hands-on experience in developing and deploying web applications.</h3>
-<img align="right" alt="Coding" width="650" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
+<img align="left" alt="Coding" width="650" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanrang&label=Profile%20views&color=0e75b6&style=flat" alt="mohanrang" /> </p>
 
